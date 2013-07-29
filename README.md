@@ -14,7 +14,7 @@ cd yeoman-io-2012-slides/
 
 npm install
 
-grunt insall jquery && modernizr
+grunt install jquery && modernizr
 
 grunt server
 ```
